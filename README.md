@@ -1,9 +1,9 @@
 ![Header](https://github.com/JesusSD92/jesussd92/assets/122447380/7f96d25e-1f83-41f2-8233-830d1f805c74)
 
 <h1 align="center">Hola Bienvenid@ a mi GitHub 😁</h1>
-<h3 align="center">Apasionado desarrollador web con experiencia en Springboot y Angular</h3>
+<h3 align="center">Desarrollador web backend con experiencia en Springboot y Angular</h3>
 
-- 🔭 Actualmente trabajando en un proyecto sin ánimo de lucro para una ONG **Real Gambia Experience**
+- 🔭 Actualmente trabajando en un proyecto de **AdoptaUnJunior**
 
 - 📫 Contacto **jesus.sd18@gmail.com**
 
