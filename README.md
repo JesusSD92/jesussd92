@@ -3,7 +3,7 @@
 <h1 align="center">Hola Bienvenid@ a mi GitHub 😁</h1>
 <h3 align="center">Desarrollador web backend con experiencia en Springboot y Angular</h3>
 
-- 🔭 Actualmente trabajando en un proyecto de **AdoptaUnJunior**
+- 🔭 Actualmente trabajando en un proyecto de **AdoptaUnJunior** como Backend Developer
 
 - 📫 Contacto **jesus.sd18@gmail.com**
 
